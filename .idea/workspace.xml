@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d775f0-412d-43a9-9f9a-ca115257f364" name="Default" comment="" />
+    <list default="true" id="03d775f0-412d-43a9-9f9a-ca115257f364" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/conditions/IfElse.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/conditions/IfElseIf.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/conditions/NestedIf.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/conditions/SimpleIf.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/conditions/SwitchCase.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ScalaExercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,16 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Variables.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basics/variables/Variables.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-112">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Bitwise.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/basics/operators/Bitwise.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,11 +41,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assignment.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Assignment.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/basics/operators/Assignment.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
+            <state relative-caret-position="8">
               <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleIf.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditions/SimpleIf.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfElse.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditions/IfElse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfElseIf.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditions/IfElseIf.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NestedIf.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/conditions/NestedIf.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwitchCase.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/conditions/SwitchCase.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -94,6 +142,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -113,6 +164,11 @@
         <option value="$PROJECT_DIR$/src/basics/operators/Logical.scala" />
         <option value="$PROJECT_DIR$/src/basics/operators/Relational.scala" />
         <option value="$PROJECT_DIR$/src/basics/operators/Assignment.scala" />
+        <option value="$PROJECT_DIR$/src/conditions/SimpleIf.scala" />
+        <option value="$PROJECT_DIR$/src/conditions/IfElse.scala" />
+        <option value="$PROJECT_DIR$/src/conditions/IfElseIf.scala" />
+        <option value="$PROJECT_DIR$/src/conditions/NestedIf.scala" />
+        <option value="$PROJECT_DIR$/src/conditions/SwitchCase.scala" />
       </list>
     </option>
   </component>
@@ -201,6 +257,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="conditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaExercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaExercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="basics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -245,15 +319,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Assignment">
-    <configuration default="false" name="Variables" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.SwitchCase">
+    <configuration default="false" name="SimpleIf" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="basics.variables.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="basics.variables.Variables" />
+      <option name="MAIN_CLASS_NAME" value="conditions.SimpleIf" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -266,14 +340,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Arithmetic" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="IfElse" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="basics.operators.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="basics.operators.Arithmetic" />
+      <option name="MAIN_CLASS_NAME" value="conditions.IfElse" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -286,14 +360,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Relational" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="IfElseIf" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="basics.operators.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="basics.operators.Relational" />
+      <option name="MAIN_CLASS_NAME" value="conditions.IfElseIf" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -306,14 +380,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Bitwise" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="NestedIf" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="basics.operators.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="basics.operators.Bitwise" />
+      <option name="MAIN_CLASS_NAME" value="conditions.NestedIf" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -326,14 +400,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Assignment" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="SwitchCase" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="basics.operators.*" />
+          <option name="PATTERN" value="conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="basics.operators.Assignment" />
+      <option name="MAIN_CLASS_NAME" value="conditions.SwitchCase" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -826,19 +900,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Variables" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Arithmetic" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Relational" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Bitwise" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Assignment" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SimpleIf" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IfElse" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IfElseIf" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NestedIf" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SwitchCase" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Assignment" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Bitwise" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Arithmetic" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Variables" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Relational" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SwitchCase" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NestedIf" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IfElseIf" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IfElse" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SimpleIf" />
       </list>
     </recent_temporary>
   </component>
@@ -860,16 +934,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495782474998</updated>
-      <workItem from="1495782477917" duration="10274000" />
+      <workItem from="1495782477917" duration="11794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10274000" />
+    <option name="totallyTimeSpent" value="11794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1215" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -879,8 +953,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1042,8 +1116,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/basics/operators/Assignment.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
+        <state relative-caret-position="8">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditions/IfElseIf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditions/IfElse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditions/SimpleIf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditions/NestedIf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conditions/SwitchCase.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
         </state>
       </provider>
