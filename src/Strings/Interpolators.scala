@@ -9,7 +9,7 @@ object Interpolators {
   val height = 1.9
 
   def main(args: Array[String]) {
-    //------  s interpolator
+    //------ s interpolator
     /*
       The literal ‘s’ allows the usage of variable directly in processing a string,
       when you prepend ‘s’ to it.
@@ -26,7 +26,7 @@ object Interpolators {
      */
     println(f"$name%s is $height%2.2f meters tall")
 
-    //------  raw interpolator
+    //------ raw interpolator
     /*
       The ‘raw’ interpolator is similar to ‘s’ interpolator except that it performs no escaping of literals within a string.
       It will print the complete string with escape letters.
