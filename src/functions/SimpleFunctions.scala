@@ -9,6 +9,7 @@ object SimpleFunctions {
     val additionResult: Int = addInt2(4, 2)
     println("Addition(return): " + additionResult)
     println("Addition(optional params): " + addInt3())
+    println("Addition(no return statement): " + addInt4(15, 10))
   }
 
   /*
@@ -35,5 +36,15 @@ object SimpleFunctions {
   */
   def addInt3(a: Int = 10, b: Int = 5): Int = {
     return a + b
+  }
+
+  /*
+    Function to calculate the sum of two integers.
+    It returns an integer value of addition.
+    But it is not used return statement.
+    It is assigned the addition (a+b) to the function so it will return that value.
+  */
+  def addInt4(a: Int, b: Int): Int = {
+    a + b
   }
 }
