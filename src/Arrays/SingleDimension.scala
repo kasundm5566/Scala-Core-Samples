@@ -1,5 +1,7 @@
 package Arrays
 
+import Array._
+
 /**
   * Created by dinesh on 5/31/17.
   */
@@ -34,7 +36,7 @@ object SingleDimension {
     }
 
     println("------------")
-    val allNames = Array.concat(names1, names2);
+    val allNames = concat(names1, names2);
     print("Concatinated array: [")
     for (x <- allNames) {
       print(x + " ")

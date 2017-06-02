@@ -1,11 +1,13 @@
 package Arrays
 
+import Array._
+
 /**
   * Created by dinesh on 5/31/17.
   */
 object ArrayWithRange {
-  val numList1 = Array.range(1, 11)
-  val numList2 = Array.range(2, 11, 2)
+  val numList1 = range(1, 11)
+  val numList2 = range(2, 11, 2)
 
   def main(args: Array[String]) {
     for (num <- numList1) {
