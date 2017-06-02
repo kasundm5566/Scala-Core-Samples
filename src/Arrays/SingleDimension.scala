@@ -37,7 +37,7 @@ object SingleDimension {
 
     println("------------")
     val allNames = concat(names1, names2);
-    print("Concatinated array: [")
+    print("Concatenated array: [")
     for (x <- allNames) {
       print(x + " ")
     }
