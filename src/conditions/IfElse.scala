@@ -5,7 +5,7 @@ package conditions
   */
 object IfElse {
   val name: String = "Johnson"
-  val status: Boolean = false;
+  val status: Boolean = false
 
   def main(args: Array[String]) {
     if (name == "John") {

@@ -5,7 +5,7 @@ package conditions
   */
 object SimpleIf {
   val name: String = "John"
-  val status: Boolean = true;
+  val status: Boolean = true
 
   def main(args: Array[String]) {
     if (name == "John") {

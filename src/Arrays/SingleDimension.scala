@@ -7,12 +7,12 @@ import Array._
   */
 object SingleDimension {
 
-  val names1: Array[String] = new Array[String](3); // ["Sam", "John", "Peter"]
+  val names1: Array[String] = new Array[String](3) // ["Sam", "John", "Peter"]
   names1(0) = "Sam"
   names1(1) = "John"
   names1(2) = "Peter"
 
-  val names2 = new Array[String](3); // ["Sam", "John", "Peter"]
+  val names2 = new Array[String](3) // ["Sam", "John", "Peter"]
   names2(0) = "Sam"
   names2(1) = "John"
   names2(2) = "Peter"
@@ -36,7 +36,7 @@ object SingleDimension {
     }
 
     println("------------")
-    val allNames = concat(names1, names2);
+    val allNames = concat(names1, names2)
     print("Concatenated array: [")
     for (x <- allNames) {
       print(x + " ")

@@ -6,7 +6,7 @@ import Array._
   * Created by dinesh on 5/31/17.
   */
 object MultiDimension {
-  val matrix = ofDim[Int](3, 4);
+  val matrix = ofDim[Int](3, 4)
 
   def main(args: Array[String]) {
     for (i <- 0 until 3) {
