@@ -1,4 +1,4 @@
-package Strings
+package strings
 
 /**
   * Created by dinesh on 5/31/17.
